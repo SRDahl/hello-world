@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-I work full-time, go to school full-time.  I use php, javascript, css, html, sql, and mysql.
+Looking for full-time work. I use react, javascript, css, html, python, sql, and mysql.
